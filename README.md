@@ -16,5 +16,4 @@ Busca de cidades:	https://geocoding-api.open-meteo.com/v1/search?name={cidade}
 Previsão do tempo:	https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}
 Autenticação:	Não é necessária.
 
-👤 Autor
-Priscila Camargo Disciplina:Desenvolvimento de Sistemas para WEB/Mobile
+👤 Autor: Priscila Camargo Disciplina: Desenvolvimento de Sistemas para WEB/Mobile
